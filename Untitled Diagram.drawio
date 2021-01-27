@@ -1,0 +1,24 @@
+<mxfile host="app.diagrams.net" modified="2021-01-27T09:56:43.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="nl0q_Ga0ZHwJ4vgTsiQD" version="14.2.7" type="github">
+  <diagram id="7JOirPLmwGEQ_gpYgnTD" name="Page-1">
+    <mxGraphModel dx="732" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UkmO8mwBeOMCJIhlYlZ7-4" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UkmO8mwBeOMCJIhlYlZ7-5" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="314" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UkmO8mwBeOMCJIhlYlZ7-6" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Attribute1: Type&lt;br/&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="494" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UkmO8mwBeOMCJIhlYlZ7-7" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="UkmO8mwBeOMCJIhlYlZ7-6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
